@@ -28,10 +28,19 @@ https://github.com/user-attachments/assets/57057b70-f9ed-4135-8077-213c76d2f570
 - Dynamic scaling of distractor audio to increase cognitive load
 - Feedback-driven difficulty system (performance → environment response)
 - Supports immersive and engaging task design
-  
-## Demo
 
-[![Watch Demo](https://img.youtube.com/vi/MvdbDa4T60U/0.jpg)](https://www.youtube.com/watch?v=MvdbDa4T60U)
+  
+## Demo (Click to Play)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MvdbDa4T60U">
+    <img src="https://img.youtube.com/vi/MvdbDa4T60U/maxresdefault.jpg" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <b>Click the image above to watch the demo</b>
+</p>
 
 ### 🔹 Event-Driven Architecture
 - Modular system for handling task flow, input, and UI updates
