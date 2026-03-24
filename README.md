@@ -67,12 +67,6 @@ https://github.com/user-attachments/assets/57057b70-f9ed-4135-8077-213c76d2f570
 
 ---
 
-## Demo
-
-*(Insert video link here)*
-
----
-
 ## Key Concepts Demonstrated
 
 - Real-time systems design  
